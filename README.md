@@ -30,7 +30,7 @@ This dataset contains information regarding the location and characteristics of 
 The dataset was created by merging multiple sources using QGIS. Data cleaning and attribute standardization were performed to ensure consistency across the entries.
 
 ## License
-This work is licensed under the CC BY 4.0.
+This work is licensed under the CC0-1.0.
 
 ## Dataset
 The images for this project can be downloaded here:
